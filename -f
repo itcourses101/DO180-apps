@@ -1,0 +1,20 @@
+Cloning "https://github.com/itcourses101/DO180-apps" ...
+	Commit:	f7cd8963ef353d9173c3a21dcccf402f3616840b (Initial commit, including all apps previously in course)
+	Author:	Jordi Sola <someth2say@gmail.com>
+	Date:	Fri Oct 4 13:04:03 2019 +0200
+time="2022-12-19T23:38:17Z" level=info msg="Not using native diff for overlay, this may cause degraded performance for building images: kernel has CONFIG_OVERLAY_FS_REDIRECT_DIR enabled"
+I1219 23:38:17.605167       1 defaults.go:102] Defaulting to storage driver "overlay" with options [mountopt=metacopy=on].
+Caching blobs under "/var/cache/blobs".
+Trying to pull image-registry.openshift-image-registry.svc:5000/openshift/php@sha256:f0d8480d7b6d597b89184bf8a3b72d4741317f78726bd149d5144f6b34e77aba...
+Warning: Pull failed, retrying in 5s ...
+Trying to pull image-registry.openshift-image-registry.svc:5000/openshift/php@sha256:f0d8480d7b6d597b89184bf8a3b72d4741317f78726bd149d5144f6b34e77aba...
+Warning: Pull failed, retrying in 5s ...
+Trying to pull image-registry.openshift-image-registry.svc:5000/openshift/php@sha256:f0d8480d7b6d597b89184bf8a3b72d4741317f78726bd149d5144f6b34e77aba...
+Getting image source signatures
+Copying blob sha256:bd8c5f64ce3a0357b2c584bc12362424587d459bc909405e273c05c40ee4f586
+Copying blob sha256:b384a262e5bb14b7b3d29ddcd4189e086cbd4c44aa501742fa5b80537afd21e4
+Copying blob sha256:741727876f8a6a9f2b3ca08644408c5fa568c3a3559077bcc8a9fdf30fc5f7cb
+Copying blob sha256:94c320da60dfbbc5b55a4179919dbab1cb2e67fc753583ee2461a2a619b0fb9b
+Copying config sha256:2d5bfb5435081bfdfb6a328c7a9e54b5fbe5dd71d9dbabc3bb8d5d55e5046bcf
+Writing manifest to image destination
+Storing signatures
